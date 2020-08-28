@@ -22,6 +22,7 @@ function decrement(n){
   return n - 1
 }
 
-function makeInt(string){
-  return parseInt('string', 10)
+function makeInt(n){
+var n = 457
+  return parseInt('n', 10)
 }
