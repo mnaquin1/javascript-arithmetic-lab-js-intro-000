@@ -17,3 +17,7 @@ return a / b
 function increment(n) {
   return n++ + 1
 }
+
+function increment(n){
+  return n-- - 1
+}
