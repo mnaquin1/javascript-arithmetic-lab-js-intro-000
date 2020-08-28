@@ -18,6 +18,6 @@ function increment(n) {
   return n++ + 1
 }
 
-function increment(n){
-  return n--
+function decrement(n){
+  return n-- - 1
 }
