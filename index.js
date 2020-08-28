@@ -22,7 +22,4 @@ function decrement(n){
   return n - 1
 }
 
-function makeInt(n){
-var n = 457
-  return parseInt('n', 10)
-}
+
