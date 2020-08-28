@@ -15,7 +15,8 @@ return a / b
 }
 
 function increment(n) {
-  return n + 1
+  var n = 5
+  return n++
 }
 
 function decrement(n){
