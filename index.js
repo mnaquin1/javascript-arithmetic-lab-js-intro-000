@@ -19,5 +19,5 @@ function increment(n) {
 }
 
 function increment(n){
-  return n-- 
+  return n--
 }
